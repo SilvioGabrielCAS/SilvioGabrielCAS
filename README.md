@@ -21,12 +21,7 @@
 
 ## How to reach me :dart:
 
-Scan this QR Code below or follow this [link](https://beacons.ai/silviogabrielcardona) to access my social media
-<br>
 
-<img width=250 height=250 alt="silvio gabriel dev_beacons_qrcode" src="https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg"/>
-
-<br>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -60,6 +55,13 @@ Scan this QR Code below or follow this [link](https://beacons.ai/silviogabrielca
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvioGabrielCAS&layout=compact&langs_count=7&theme=dracula)
 
  ![Snake animation](https://github.com/SilvioGabrielCAS/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+ Scan this QR Code below or follow this [link](https://beacons.ai/silviogabrielcardona) to access my social media
+<br>
+
+<img width=250 height=250 alt="silvio gabriel dev_beacons_qrcode" src="https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg"/>
+
+<br>
 
 ### "Come to the Tech side of the force"
 
