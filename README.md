@@ -59,7 +59,7 @@
  Scan this QR Code below or follow this [link](https://beacons.ai/silviogabrielcardona) to access my social media
 <br>
 
-<img width=250 height=250 alt="silvio gabriel dev_beacons_qrcode" src="https://user-images.githubusercontent.com/59212312/129964777-9314ba07-cd9a-4025-85b1-084353885402.jpg"/>
+<img width=250 height=250 alt="silvio gabriel dev_beacons_qrcode" src="Images/silviogabrielcardona_beacons_qrcode.jpg"/>
 
 <br>
 
