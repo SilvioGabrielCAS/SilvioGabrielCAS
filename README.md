@@ -2,6 +2,17 @@
 **SilvioGabrielCAS/SilvioGabrielCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let dianaMartine = new dev('Diana Martine', 23, 'Developer front-end and artist');
+      console.log(dianaMartine);
+
+
+
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
 ## I'm Silvio Gabriel :bust_in_silhouette:
 :uk: English :uk:
