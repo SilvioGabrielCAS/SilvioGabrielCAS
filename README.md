@@ -3,6 +3,7 @@
 -->
 
 
+```js 
 function dev(name, age, work) {
         this.name = name;
         this.age = age;
@@ -10,7 +11,7 @@ function dev(name, age, work) {
       }
       let dianaMartine = new dev('Diana Martine', 23, 'Developer front-end and artist');
       console.log(dianaMartine);
-
+```
 
 
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
