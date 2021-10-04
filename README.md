@@ -56,7 +56,7 @@
 
  ![Snake animation](https://github.com/SilvioGabrielCAS/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
- Scan this QR Code below or follow this [link](https://beacons.ai/silviogabrielcardona) to access my social media
+ Scan this QR Code below or follow this [link](https://beacons.ai/silviotech) to access my social media
 <br>
 
 <img width=250 height=250 alt="silvio gabriel dev_beacons_qrcode" src="Images/silviogabrielcardona_beacons_qrcode.jpg"/>
