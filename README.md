@@ -3,6 +3,9 @@
 -->
 
 
+# Hello, World! :sparkles::dizzy::earth_americas::dart:
+## I'm Silvio Gabriel :bust_in_silhouette:
+
 ```js 
 function dev(name, age, work) {
         this.name = name;
@@ -13,9 +16,6 @@ function dev(name, age, work) {
       console.log(dianaMartine);
 ```
 
-
-# Hello, World! :sparkles::dizzy::earth_americas::dart:
-## I'm Silvio Gabriel :bust_in_silhouette:
 :uk: English :uk:
 - I live in Porto Alegre - RS in South of Brasil :brazil: :cowboy_hat_face::farmer::round_pushpin:
 - I’m currently learning Internet Systems at FAQI Colledge (Distance Education) :student::books::mortar_board:
