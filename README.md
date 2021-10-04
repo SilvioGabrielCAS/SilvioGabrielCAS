@@ -2,8 +2,20 @@
 **SilvioGabrielCAS/SilvioGabrielCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 # Hello, World! :sparkles::dizzy::earth_americas::dart:
 ## I'm Silvio Gabriel :bust_in_silhouette:
+
+```js 
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let dianaMartine = new dev('Silvio Gabriel', 25, 'Developer front-end and artist');
+      console.log(dianaMartine);
+```
+
 :uk: English :uk:
 - I live in Porto Alegre - RS in South of Brasil :brazil: :cowboy_hat_face::farmer::round_pushpin:
 - I’m currently learning Internet Systems at FAQI Colledge (Distance Education) :student::books::mortar_board:
